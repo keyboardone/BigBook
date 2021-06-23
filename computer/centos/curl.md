@@ -1,17 +1,17 @@
 > **发送POST请求：**
 
-`curl --request POST \  
-  --url 'http://ai.hx168.com.cn:8080/newsservice/api/stockNews?scenarioId=scenario_stock_detail' \  
-  --header 'content-type: application/json' \  
-  --data '{  
- "deviceId": "10014476451001447645",  
- "userId": "10014476451001447645",  
- "accountId": "1001447645",  
- "stockCode": "600449",  
- "status": "1",  
- "requireNum": 20,  
- "column": "",  
- "lastItemId": ""  
+`curl --request POST \    
+  --url 'http://ai.hx168.com.cn:8080/newsservice/api/stockNews?scenarioId=scenario_stock_detail' \    
+  --header 'content-type: application/json' \    
+  --data '{    
+ "deviceId": "10014476451001447645",    
+ "userId": "10014476451001447645",    
+ "accountId": "1001447645",    
+ "stockCode": "600449",    
+ "status": "1",    
+ "requireNum": 20,    
+ "column": "",    
+ "lastItemId": ""    
 }'`
 
 
