@@ -5,7 +5,8 @@
   * [Java](computer/java.md)
   * [CentOS](computer/centos.md)
     * [curl](computer/centos/curl.md)
-    * find
+    * [文件操作](computer/centos/find.md)
+    * 服务器状态运维
   * [Oracle](computer/oracle.md)
   * [Redis](computer/redis.md)
   * MacBook
