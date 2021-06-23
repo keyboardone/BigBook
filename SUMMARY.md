@@ -7,5 +7,6 @@
   * Redis
   * MacBook
 * Mathmatics
-* Physics
+* [Physics](physics.md)
+* [ttt](ttt.md)
 
