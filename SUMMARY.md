@@ -6,7 +6,6 @@
   * Oracle
   * Redis
   * MacBook
-* Mathmatics
+* [Mathmatics](mathmatics.md)
 * [Physics](physics.md)
-* [ttt](ttt.md)
 
